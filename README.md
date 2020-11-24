@@ -1,2 +1,2 @@
 # Diary
-Every Day’s Study
+Every Day’s Study Note From LeetCode
